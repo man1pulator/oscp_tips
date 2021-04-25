@@ -14,7 +14,7 @@ You can set variables in tmux session that will be accessed throughout the given
 ```
 IP=10.0.2.33
 tmux setenv IP $IP
-export IP $IP	
+export IP=$IP	
 ```
 
 **Video POC**
